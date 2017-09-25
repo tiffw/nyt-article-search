@@ -1,6 +1,7 @@
 # NYT Article Search
 
-For more information, please see the [project files](https://github.com/tiffw).
+Live Video at (https://youtu.be/88rWrKhJKlw)
+Heroku App https://desolate-castle-26046.herokuapp.com/
 
 ## Copyright
 
